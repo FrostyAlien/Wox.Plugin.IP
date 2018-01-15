@@ -1,7 +1,7 @@
 # Wox.Plugin.IP
 一个简易的Wox插件用于快速查找IP的位置信息和ASN信息。
 
-![gif](https://imgur.com/7TjaUZA)
+![gif](https://i.imgur.com/7TjaUZA.gif)
 
 第一次写Wox的插件 代码比较乱 也不是很常用C#所以随便糊了一下 基本上是能用
 
