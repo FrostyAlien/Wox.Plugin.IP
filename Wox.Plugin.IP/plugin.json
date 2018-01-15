@@ -1,0 +1,23 @@
+{
+
+    "ID":"095A6AE3B264432EBBD78F02A71D4981",
+
+    "ActionKeyword":"ip",
+
+    "Name":"IP Helper",
+
+    "Description":"Output some information about IP and ASN.",
+
+    "Author":"FrostyAlien",
+
+    "Version":"1.0.3",
+
+    "Language":"csharp",
+
+    "Website":"https://github.com/FrostyAlien/Wox.Plugin.IP",
+
+    "ExecuteFileName":"Wox.Plugin.IP.dll",
+
+	"IcoPath":"Images\\bgpview.png"
+
+}
